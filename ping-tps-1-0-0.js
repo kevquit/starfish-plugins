@@ -6,8 +6,8 @@ module.exports = (api) => {
     name: 'pingtps',
     displayName: 'Ping & TPS',
     prefix: '§bPT',
-    version: '1.0.3',
-    author: 'imWorldy',
+    version: '1.0.0',
+    author: 'imWorldy, modified by kevquit',
     description: 'Direct Hypixel ping + Original TPS estimation.'
   });
 
